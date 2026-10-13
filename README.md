@@ -1,4 +1,4 @@
 # belajar
 belajar
 
-baru nyampe Bab 5: Operator
+baru nyampe Bab 6: Percabangan (Kontrol Alur)
