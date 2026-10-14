@@ -1,4 +1,4 @@
 # belajar
 belajar
 
-baru nyampe Bab 6: Percabangan (Kontrol Alur)
+baru nyampe "Bab 7: Perulangan" di file 5.md
