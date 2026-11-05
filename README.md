@@ -3,5 +3,5 @@ belajar
 
 - baru nyampe "Bab 4. Kriptografi Simetris" di file Cryptography.md
 - baru nyampe "Bab 2. Ruang Siber, Yurisdiksi, dan Peta Regulasi" di file Hukum dan Kebijakan Teknologi Informasi.md
-- baru nyampe "Bab 6: Tantangan, Kesulitan, dan Kondisi Flow" di file Game Design Dasar.md
+- baru nyampe "Bab 7: Umpan Balik dan Game Feel" di file Game Design Dasar.md
 - baru nyampe "Bab 5: Autentikasi dan Kontrol Akses" di file Network Security.md
